@@ -1,5 +1,6 @@
 package com.meowu.commons.common.commons.utils;
 
+import com.meowu.commons.common.commons.security.exception.IllegalArgumentException;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.ArrayUtils;
 import org.apache.commons.lang3.StringUtils;
